@@ -12,7 +12,7 @@ The current default colorschemes that comes with `OhMyREPL` are
 * "Monokai16" - 16 color Monokai
 * "Monokai256" - 256 colors Monokai
 * "Monokai24bit" - 24 bit colored Monokai
-* "BoxyMonokai256" - 256 colors Monokai from [here](https://github.com/oivva/st-boxy)
+* "BoxyMonokai256" - 256 colors Monokai 
 * "TomorrowNightBright" - 256 colors Tomorrow Night Bright
 * "TomorrowNightBright24bit" - 24 bit colored Tomorrow Night Bright
 * "OneDark" - 24 bit colored OneDark
